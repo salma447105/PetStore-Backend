@@ -1,40 +1,6 @@
 {
   "users": [
-    {
-      "id": "1",
-      "name": "Mariam",
-      "email": "mariam@example.com",
-      "role": "user",
-      "password": "pass123"
-    },
-    {
-      "id": "2",
-      "name": "Admin",
-      "email": "admin@example.com",
-      "role": "admin",
-      "password": "admin123"
-    },
-    {
-      "id": "3",
-      "name": "Omar",
-      "email": "omar@example.com",
-      "role": "user",
-      "password": "omar123"
-    },
-    {
-      "id": "4",
-      "name": "Youssef",
-      "email": "youssef@example.com",
-      "role": "user",
-      "password": "youssef321"
-    },
-    {
-      "id": "5",
-      "name": "Sara",
-      "email": "sara@example.com",
-      "role": "user",
-      "password": "sara789"
-    }
+    
   ],
   "pets": [
     {
@@ -48,18 +14,6 @@
     {
       "id": "3",
       "name": "Hamster"
-    },
-    {
-      "id": "4",
-      "name": "Parrot"
-    },
-    {
-      "id": "5",
-      "name": "Rabbit"
-    },
-    {
-      "id": "6",
-      "name": "Turtle"
     }
   ],
   "categories": [
@@ -327,93 +281,8 @@
     }
   ],
   "reviews": [
-    {
-      "id": "1",
-      "productId": 1,
-      "userId": 1,
-      "rating": 5,
-      "comment": "My dog loves this food! Great quality.",
-      "createdAt": "2025-10-01T12:00:00Z"
-    },
-    {
-      "id": "2",
-      "productId": 2,
-      "userId": 3,
-      "rating": 4,
-      "comment": "Nice toy, keeps my cat busy.",
-      "createdAt": "2025-10-05T09:30:00Z"
-    },
-    {
-      "id": "3",
-      "productId": 4,
-      "userId": 1,
-      "rating": 5,
-      "comment": "Very strong leash, highly recommended.",
-      "createdAt": "2025-10-10T15:45:00Z"
-    },
-    {
-      "id": "4",
-      "productId": 8,
-      "userId": 5,
-      "rating": 4,
-      "comment": "The brush is great but smaller than expected.",
-      "createdAt": "2025-10-12T11:15:00Z"
-    },
-    {
-      "id": "5",
-      "productId": 10,
-      "userId": 6,
-      "rating": 5,
-      "comment": "My dog is much healthier now!",
-      "createdAt": "2025-10-14T09:40:00Z"
-    },
-    {
-      "id": "6",
-      "productId": 15,
-      "userId": 7,
-      "rating": 5,
-      "comment": "My cat loves scratching this post!",
-      "createdAt": "2025-10-16T18:20:00Z"
-    }
-  ],
-  "feedback": [
-    {
-      "id": "1",
-      "comment": "Loved the checkout experience! Super smooth and easy.",
-      "rating": 5,
-      "createdAt": "2025-10-20T14:32:00Z"
-    },
-    {
-      "id": "2",
-      "comment": "The product images were adorable, but I wish there were more details.",
-      "rating": 4,
-      "createdAt": "2025-10-21T09:15:00Z"
-    },
-    {
-      "id": "3",
-      "comment": "Had trouble with payment initially, but it worked after retrying.",
-      "rating": 3,
-      "createdAt": "2025-10-22T18:47:00Z"
-    },
-    {
-      "id": "4",
-      "comment": "Great variety of pet toys! My dog is obsessed.",
-      "rating": 5,
-      "createdAt": "2025-10-23T11:05:00Z"
-    },
-    {
-      "id": "5",
-      "comment": "Would love to see more bird accessories.",
-      "rating": 4,
-      "createdAt": "2025-10-23T20:22:00Z"
-    },
-    {
-      "id": "56f7",
-      "comment": "fhfgcdghg",
-      "rating": 1,
-      "createdAt": "2025-11-02T20:25:20.001Z",
-      "sessionId": "cs_test_b1mFKZjzTEZdspYpXQk5g9mu4Fj7Pl8BGwfUp5aZNB6izTEVYOApVM1dqd"
-    }
+    
   ]
 }
+
 
