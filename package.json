@@ -18,5 +18,6 @@
     "dotenv": "^17.2.3",
     "express": "^5.1.0",
     "stripe": "^19.2.0"
-  }
+  },
+  "type": "module"
 }
